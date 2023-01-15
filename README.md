@@ -15,15 +15,15 @@
 
 ## Reach me 
 
-[![Github](https://img.shields.io/github/followers/axcmsm?label=Github&style=social)](https://github.com/miluluyo)
+[![Github](https://img.shields.io/github/followers/axcmsm?label=Github&style=social)](https://github.com/axcmsm)
 [![Blog](https://img.shields.io/badge/blog-科技-blue)](https://blog-alpha-ecru-93.vercel.app)
-[![Blog](https://img.shields.io/badge/blog-博客-orange)](https://miluluyo.github.io/vdoingBlog/)
+[![Blog](https://img.shields.io/badge/blog-博客-orange)](https://main--lighthearted-paletas-5b5027.netlify.app)
 [![码云](https://img.shields.io/badge/码云-Gitee-lilac)](https://gitee.com/axcmsm)
 [![公众号](https://img.shields.io/badge/公众号-代码飞快-green)](https://main--lighthearted-paletas-5b5027.netlify.app/img/gzh.jpg)
 [![Mail](https://img.shields.io/badge/须贺@axcmsm.com-red)](axcmsm@qq.com)
 
-<!-- [![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-miluluyo-red)](https://gitee.com/miluluyo)
-[![小程序](https://img.shields.io/badge/小程序-SAnBlog-green)](https://app.sanii.cn/) -->
+<!-- [![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-axcmsm-red)](https://gitee.com/axcmsm)
+[![小程序](https://img.shields.io/badge/小程序-SAnBlog-green)](https://gitee.com/axcmsm) -->
 
 ### Interesting stats
 
