@@ -18,7 +18,7 @@
 [![Github](https://img.shields.io/github/followers/axcmsm?label=Github&style=social)](https://github.com/axcmsm)
 [![Blog](https://img.shields.io/badge/blog-科技-blue)](https://blog-alpha-ecru-93.vercel.app)
 [![Blog](https://img.shields.io/badge/blog-博客-orange)](https://main--lighthearted-paletas-5b5027.netlify.app)
-[![Blog](https://img.shields.io/badge/blog-工具箱-green)](https://axcmsm.gitub.io)
+[![Blog](https://img.shields.io/badge/blog-工具箱-green)](https://axcmsm.github.io)
 [![码云](https://img.shields.io/badge/码云-Gitee-lilac)](https://axcmsm.gitee.com/axcmsm)
 [![公众号](https://img.shields.io/badge/公众号-代码飞快-green)](https://main--lighthearted-paletas-5b5027.netlify.app/img/gzh.jpg)
 [![Mail](https://img.shields.io/badge/须贺@axcmsm.com-red)](axcmsm@qq.com)
