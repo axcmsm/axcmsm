@@ -9,7 +9,6 @@
 
 纵有疾风起，人生不言弃🐅
 
-公众号：『<a href="https://main--lighthearted-paletas-5b5027.netlify.app/img/gzh.jpg" tarnk="_black">代码飞快</a>』
 
 
 
